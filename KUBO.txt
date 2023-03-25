@@ -1,4 +1,4 @@
-aerafadsfsafafd
+RAMA 5: Sustituyo 1ª linea
 
 asdfasfasfasfsfadfafsadfdasfasfasf
 asdassaA
@@ -12,3 +12,5 @@ dfaffds
 
 cabronazo
 >>>>>>> origin/nueva_rama1:KUBO.txt
+
+RAMA 5: Añado lineea:
