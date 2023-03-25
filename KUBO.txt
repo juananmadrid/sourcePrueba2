@@ -1,0 +1,14 @@
+aerafadsfsafafd
+
+asdfasfasfasfsfadfafsadfdasfasfasf
+asdassaA
+
+<<<<<<< HEAD:prueba.txt
+<zxczc
+=======
+
+a
+dfaffds
+
+cabronazo
+>>>>>>> origin/nueva_rama1:KUBO.txt
