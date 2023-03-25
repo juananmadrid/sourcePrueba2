@@ -37,3 +37,7 @@ EJEMPLO 3:
 
 	05-2024			Fecha Caducidad
 
+
+
+
+new lote
